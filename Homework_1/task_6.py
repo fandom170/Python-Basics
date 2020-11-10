@@ -1,3 +1,4 @@
+"""Lesson 1 Task 6"""
 
 result = float(input("Please enter initial result by numbers: \n"))
 distance = float(input("Please enter required distance: \n"))

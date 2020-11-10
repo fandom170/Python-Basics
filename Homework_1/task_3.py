@@ -1,3 +1,4 @@
+"""Lesson 1 Task 3"""
 
 # variant 1
 n = input("Please enter desired number: \n")

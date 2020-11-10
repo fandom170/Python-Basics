@@ -1,3 +1,4 @@
+"""Lesson 1 Task 1"""
 
 this_is_string = input("What do you think about weather? ")
 
