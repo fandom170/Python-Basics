@@ -1,3 +1,4 @@
+"""Homework 1 Task 5"""
 
 earned = float(input("Please enter amount of earned: \n"))
 
