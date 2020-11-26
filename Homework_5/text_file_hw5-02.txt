@@ -1,0 +1,14 @@
+  Finding the tomb of an ancient king full of golden artifacts, weapons and elaborate clothing seems like any
+archaeologist’s fantasy. But searching for them, Gino Caspari can tell you, is incredibly tedious.
+  Dr. Caspari, a research archaeologist with the Swiss National Science Foundation, studies the ancient Scythians,
+a nomadic culture whose horse-riding warriors terrorized the plains of Asia 3,000 years ago. The tombs of Scythian
+royalty contained much of the fabulous wealth they had looted from their neighbors. From the moment the bodies were
+interred, these tombs were popular targets for robbers; Dr. Caspari estimates that more than 90 percent of them have
+been destroyed.
+He suspects that thousands of tombs are spread across the Eurasian steppes,
+which extend for millions of square miles. He had spent hours mapping burials using Google Earth images of territory
+in what is now Russia, Mongolia and Western China’s Xinjiang province. “It’s essentially a stupid task,” Dr. Caspari said.
+“And that’s not what a well-educated scholar should be doing.”
+После запуска программы выполняется открытие файла и извлечение его содержимого как строки в переменную content.
+Далее осуществляется печать содержимого файла и закрытие дескриптора.
+Необходимо всегда выполнять закрытие файла, т. к. другой программе может потребоваться получить доступ к нему.
