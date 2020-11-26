@@ -1,4 +1,4 @@
-"""Lesson 1 Task 2"""
+"""Homework 1 Task 2"""
 
 time_seconds = int(input("Enter time in seconds, please: \n"))
 

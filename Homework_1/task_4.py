@@ -1,4 +1,4 @@
-"""Lesson 1 Task 4"""
+"""Homework 1 Task 4"""
 
 n = int(input("Please enter positive integer value: \n"))
 
