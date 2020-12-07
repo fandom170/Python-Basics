@@ -1,0 +1,4 @@
+Printer,RX-1115,5.1,26,Laser,A4,USB2.0
+Printer,SM23,8,31,Ink Jet,A4,LPT
+Scanner,"Canoscan Lide",4,35,260dpi,5p/min,USB 3.0
+Copier, Work Centre, 11, 44, Laser,1 p / 10 sec, USB
